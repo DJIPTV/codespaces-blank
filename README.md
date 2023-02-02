@@ -1,2 +1,5 @@
-# codespaces-blank
-http://satline.xyz:8080/live/551662584231184/8751662584231184/50417.ts
+
+#EXT.M3U
+
+#EXTINF:-1.25 DOMINICAN REPUBLICA
+https://iptv-org.github.io/iptv/countries/do.m3u
